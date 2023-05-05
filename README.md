@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Clinton431
 - 👀 I’m interested in Front End web dev
 - 🌱 I’m currently learning full stack web Development
-- 💞️ I’m looking to collaborate on open source projcets
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ...
 
 <!---

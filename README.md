@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End web dev
 - 🌱 I’m currently learning full stack web Development
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me ...
+- 📫 How to reach me, you can reach me through my email clintonnyakoe@gmail.com
 
 <!---
 Clinton431/Clinton431 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

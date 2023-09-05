@@ -5,6 +5,7 @@
 - 📫 How to reach me, you can reach me through my email clintonnyakoe@gmail.com
 
 - Have skills in:
+- 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,linux)](https://skillicons.dev)
 <!---
 Clinton431/Clinton431 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

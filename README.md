@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/clintonnyakoe" target="blank"><img src="https://img.shields.io/twitter/follow/clintonnyakoe?logo=twitter&style=for-the-badge" alt="clintonnyakoe" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Backend**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
 - 📝 I regularly write articles on [Linux](Linux)
 
-- 💬 Ask me about **Linux, Python**
+- 💬 Ask me about **Linux, Python, Javascript**
 
 - 📫 How to reach me **clintonnyakoe@gmail.com**
 

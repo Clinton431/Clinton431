@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **clintonnyakoe@gmail.com**
 
-- ⚡ Fun fact **I like adventures**
+- ⚡ Fun fact **I like adventures, Reading**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

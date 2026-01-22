@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👯 I’m looking to collaborate on **Open source projects**
+- I’m looking to collaborate on **Open source projects**
 
 - 📝 I regularly write articles on [Linux](Linux)
 
